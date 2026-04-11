@@ -1,3 +1,6 @@
+## work in progress
+
+Meaning **i need to understand the fundementals of each programming language** to complete this project.
 
 # Hello-World-
 

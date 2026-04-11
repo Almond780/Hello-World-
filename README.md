@@ -13,10 +13,12 @@ There is no **Licence** becuase its not necessary at all.
 
 So i recommend to copy everything but if you don't know everything ask Ai becuase due to the complexity of this project and the promblems you may face.
 
-But if your going to copy everthing, **change your file paths** in Python Hello World Launcher.py
+But if your going to copy everthing, **change your file paths** in Python Hello World Launcher.py and add elif statements to the program that are exetublese.
 
-## Conclusion
+## Conclusion Q&A
 
-Is this useful? No, its use cases for learning in such ways that no-one needs in there daily life.
+Is this useful? Not really, its only useful if your learning programming but if your a full-stack-devolper, you already know.
 
 Can this be a joke? Mabye, depends on how many programming languages are there.
+
+Can I get a job with this? Think for a second.

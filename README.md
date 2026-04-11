@@ -8,7 +8,7 @@ There is no **Licence** becuase its not necessary at all?
 
 ## Setup
 
-I use ArchLinux btw, so i don't know any knowlegde about other operating systems and other Linux distro's. So thats why i recommend to copy everything but for CmakeList.txt ask Ai becuase I don't know what IDE you use.
+So i recommend to copy everything but for CmakeList.txt ask Ai becuase I don't know what IDE you use.
 
 But if your going to copy everthing, **chang your file paths** in Python Hello World Launcher.py
 

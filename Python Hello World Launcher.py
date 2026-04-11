@@ -1,4 +1,4 @@
-#Python Hello world Luancher
+Python Hello world Luancher
 
 import subprocess
 
@@ -27,6 +27,30 @@ while(True):
         subprocess.run(["/home/user/C++/executable"]) 
         # #Change your absolute path 
     elif choice == "3":
+        # Run a compiled executable
+        subprocess.run(["/home/user/C/executable"]) 
+        # #Change your absolute path 
+    elif choice == "4":
+        # Run a compiled executable
+        subprocess.run(["/home/user/C/executable"]) 
+        # #Change your absolute path 
+    elif choice == "5":
+        # Run a compiled executable
+        subprocess.run(["/home/user/C/executable"]) 
+        # #Change your absolute path 
+    elif choice == "6":
+        # Run a compiled executable
+        subprocess.run(["/home/user/C/executable"]) 
+        # #Change your absolute path 
+    elif choice == "7":
+        # Run a compiled executable
+        subprocess.run(["/home/user/C/executable"]) 
+        # #Change your absolute path 
+    elif choice == "8":
+        # Run a compiled executable
+        subprocess.run(["/home/user/C/executable"]) 
+        # #Change your absolute path 
+    elif choice == "10":
         # Run a compiled executable
         subprocess.run(["/home/user/C/executable"]) 
         # #Change your absolute path 

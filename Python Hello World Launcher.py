@@ -32,27 +32,27 @@ while(True):
         # #Change your absolute path 
     elif choice == "4":
         # Run a compiled executable
-        subprocess.run(["/home/user/C/executable"]) 
+        subprocess.run(["/home/user/Java/executable"]) 
         # #Change your absolute path 
     elif choice == "5":
         # Run a compiled executable
-        subprocess.run(["/home/user/C/executable"]) 
+        subprocess.run(["/home/user/Javascript/executable"]) 
         # #Change your absolute path 
     elif choice == "6":
         # Run a compiled executable
-        subprocess.run(["/home/user/C/executable"]) 
+        subprocess.run(["/home/user/Rust/executable"]) 
         # #Change your absolute path 
     elif choice == "7":
         # Run a compiled executable
-        subprocess.run(["/home/user/C/executable"]) 
+        subprocess.run(["/home/user/HTML/executable"]) 
         # #Change your absolute path 
     elif choice == "8":
         # Run a compiled executable
-        subprocess.run(["/home/user/C/executable"]) 
+        subprocess.run(["/home/user/brainf*ck/executable"]) 
         # #Change your absolute path 
     elif choice == "10":
         # Run a compiled executable
-        subprocess.run(["/home/user/C/executable"]) 
+        subprocess.run(["/home/user/x86_aseembly/executable"]) 
         # #Change your absolute path 
     else:
         print(vinput)

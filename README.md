@@ -1,7 +1,7 @@
 
 # Hello-World-
 
-This just a "Hello World!" in proggramming languages using child processes. So don't use this but if you want to use this, go down to the **Setup**.
+This just a "Hello World!" in programming languages using child processes. So don't use this but if you want to use this, go down to the **Setup**.
 
 ## Licence
 There is no **Licence** becuase its not necessary at all.

@@ -5,11 +5,11 @@ This just a "Hello World!" in many programming languages using child processes, 
 
 Disclamer: I use ArchLinux btw, so i don't know any knowlegde about other operating systems and other Linux distro's 
 
-1.Introduction
+### 1.Introduction
 
-2.Setup
+### 2.Setup
 
-3.Conculsion
+### 3.Conculsion
 
 ## 1.Introduction
 

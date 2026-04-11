@@ -1,6 +1,6 @@
 #Hello world sub-processes
 
-line = "-----------------------"
+line = "-----------------------" # change the length if you want
 
 while(True):
     print(line)

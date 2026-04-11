@@ -4,7 +4,7 @@
 This just a "Hello World!" in python, C, C++ and mabye others in the future using child processes, to help me learn how to use GitHub. So don't use this but if you want to use this, go down to the **Setup**.
 
 ## Licence
-There is no **Licence** becuase its not necessary at all?
+There is no **Licence** becuase its not necessary at all.
 
 ## Setup
 

@@ -13,7 +13,7 @@ There is no **Licence** becuase its not necessary at all.
 
 So i recommend to copy everything but if you don't know everything ask Ai becuase due to the complexity of this project and the promblems you may face.
 
-But if your going to copy everthing, **change your file paths** in Python Hello World Launcher.py and add elif statements to the program that are exetublese.
+But if your going to copy everthing, **change your file paths** in Python Hello World Launcher.py and **add elif statements** to the program that are exetublese.
 
 ## Conclusion Q&A
 

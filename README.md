@@ -33,6 +33,10 @@ i just used **QT creator with Cmake**.
 
 HTML/Javascript/CSS are not programming languages, so **I put it all in 1 file called "HTML".** 
 
+## Java
+
+Work in proggress
+
 ## Conclusion Q&A
 
 Is this useful? Not really, its only useful if your learning programming but if your a full-stack-dev, you already know.

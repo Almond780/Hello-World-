@@ -19,6 +19,8 @@ But if your going to copy everthing, **change your file paths** in Python Hello 
 
 Assembly is very complex, so i will make diffrent folders for each type of family and more.
 
+### NASM
+
 If you want to understand more about nasm_with_qt, go here tho its in Russian https://github.com/anevero/nasm_with_qt
 
 ## C/C++

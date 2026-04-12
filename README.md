@@ -11,7 +11,7 @@ There is **no Licence** becuase its not necessary at all.
 
 ## Setup
 
-So i recommend to copy everything but if you don't know everything ask Ai becuase due to the complexity of this project and the promblems you may face.
+So i recommend to copy everything but if you don't know everything ask Ai becuase due to the complexity of this project and the promblems you may face. Another thing ignore dummy files they have nothing.
 
 But if your going to copy everthing, **change your file paths** in Python Hello World Launcher.py and **add elif statements** to the program that are exetublese.
 

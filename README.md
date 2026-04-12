@@ -12,6 +12,7 @@ There is no **Licence** becuase its not necessary at all.
 ## Assembly
 
 Assembly is very complex, so i will make diffrent folders for each type of family and more.
+If you want to understand more go here tho its in Russian https://github.com/anevero/nasm_with_qt
 
 ## Setup
 

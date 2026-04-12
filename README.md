@@ -40,3 +40,5 @@ Is this useful? Not really, its only useful if your learning programming but if 
 Can this be a joke? Mabye, depends on how many programming languages are there.
 
 Can I get a job with this? Think for a second.
+
+DId you create this? Yes and tested meaning just no copy and pasted code.

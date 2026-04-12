@@ -52,3 +52,5 @@ Can this be a joke? Mabye, depends on how many programming languages are there.
 Can I get a job with this? Think for a second.
 
 DId you create this? Yes and tested meaning just no copy and pasted code.
+
+Was learning the fundementals of each language useful? Yes but not for the niche languages like Brainf*ck.

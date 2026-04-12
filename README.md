@@ -11,7 +11,7 @@ There is no **Licence** becuase its not necessary at all.
 
 ## Assembly
 
-Assembly is very complex, so i will make diffrent folders for esch type of family and more.
+Assembly is very complex, so i will make diffrent folders for each type of family and more.
 
 ## Setup
 
@@ -19,7 +19,7 @@ So i recommend to copy everything but if you don't know everything ask Ai becuas
 
 But if your going to copy everthing, **change your file paths** in Python Hello World Launcher.py and **add elif statements** to the program that are exetublese.
 
-Big thing to note is **i use CMake in Qt creator for C, C++ and NSAM (x86 assembly)**
+Big thing to note is **I use CMake in Qt creator for C, C++ and NSAM (x86 assembly)**
 
 ## Conclusion Q&A
 

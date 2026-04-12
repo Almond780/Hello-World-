@@ -19,7 +19,7 @@ So i recommend to copy everything but if you don't know everything ask Ai becuas
 
 But if your going to copy everthing, **change your file paths** in Python Hello World Launcher.py and **add elif statements** to the program that are exetublese.
 
-Big thing to note is i use CMake in Qt creator for C, C++ and NSAM (x86 assembly)
+Big thing to note is **i use CMake in Qt creator for C, C++ and NSAM (x86 assembly)**
 
 ## Conclusion Q&A
 

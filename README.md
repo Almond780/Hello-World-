@@ -20,7 +20,8 @@ Big thing to note is **I use CMake in Qt creator for C, C++ and NSAM (x86 assemb
 ## Assembly
 
 Assembly is very complex, so i will make diffrent folders for each type of family and more.
-If you want to understand more go here tho its in Russian https://github.com/anevero/nasm_with_qt
+
+If you want to understand more about nasm_with_qt, go here tho its in Russian https://github.com/anevero/nasm_with_qt
 
 ## Conclusion Q&A
 

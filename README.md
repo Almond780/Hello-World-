@@ -31,7 +31,7 @@ i just used **QT creator with Cmake**.
 
 ## HTML
 
-HTML/Javascript/CSS are not proggramming languages, so **I put it all in 1 file called "HTML".** 
+HTML/Javascript/CSS are not programming languages, so **I put it all in 1 file called "HTML".** 
 
 ## Conclusion Q&A
 

@@ -9,6 +9,10 @@ This just a "Hello World!" in programming languages using child processes. So do
 ## Licence
 There is no **Licence** becuase its not necessary at all.
 
+## Assembly
+
+Assembly is very dervise, so i will make difrent folders for esch type of family and more.
+
 ## Setup
 
 So i recommend to copy everything but if you don't know everything ask Ai becuase due to the complexity of this project and the promblems you may face.

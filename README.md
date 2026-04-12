@@ -23,7 +23,7 @@ Big thing to note is **i use CMake in Qt creator for C, C++ and NSAM (x86 assemb
 
 ## Conclusion Q&A
 
-Is this useful? Not really, its only useful if your learning programming but if your a full-stack-devolper, you already know.
+Is this useful? Not really, its only useful if your learning programming but if your a full-stack-dev, you already know.
 
 Can this be a joke? Mabye, depends on how many programming languages are there.
 

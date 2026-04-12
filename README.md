@@ -21,6 +21,14 @@ Assembly is very complex, so i will make diffrent folders for each type of famil
 
 If you want to understand more about nasm_with_qt, go here tho its in Russian https://github.com/anevero/nasm_with_qt
 
+## C/C++
+
+i just used **QT creator with Cmake**.
+
+## Python
+
+**Python 3.14** then your all good and yes you can run this in a terminal.
+
 ## HTML
 
 HTML/Javascript/CSS are not proggramming languages, so **I put it all in 1 file called "HTML".** 

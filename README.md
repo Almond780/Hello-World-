@@ -21,6 +21,10 @@ Assembly is very complex, so i will make diffrent folders for each type of famil
 
 If you want to understand more about nasm_with_qt, go here tho its in Russian https://github.com/anevero/nasm_with_qt
 
+## HTML
+
+HTML/Javascript/CSS are not proggramming languages, so **I put it all in 1 file called "HTML".** 
+
 ## Conclusion Q&A
 
 Is this useful? Not really, its only useful if your learning programming but if your a full-stack-dev, you already know.

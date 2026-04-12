@@ -35,11 +35,11 @@ HTML/Javascript/CSS are not programming languages, so **I put it all in 1 file c
 
 ## Java
 
-Work in proggress
+Work in progress
 
 ## Others
 
-Work in proggress
+Work in progress
 
 ## Conclusion Q&A
 

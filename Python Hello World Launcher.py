@@ -16,7 +16,9 @@ while(True):
     print("1. Python")
     print("2. C++")
     print("3. C")
-    
+    print("4. Javascript/CSS/HTML")
+    print("5. x86-64 intel(TM) syntax Assembly")
+    # Add more of Avalible Tools
     choice = input("> ")
     if choice == "Q":
         break

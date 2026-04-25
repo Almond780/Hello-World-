@@ -41,7 +41,7 @@ Work in progress
 
 ## Brainf*ck
 
-Brainf*ck is simple but yet so complex to intergrate into IDEs and languages, so here is "Hello World!" in brainf*ck.
+Brainfck is simple but yet so complex to intergrate into IDEs and languages, so here is a variation "Hello World!" in brainfck.
 
 **++++++++[>++++[>++>+++>+++>+<<<<-]>+>+>->>+[<]<-]>>.>---.+++++++..+++.>>.<-.<.+++.------.--------.>>+.>++.**
 
